@@ -1,0 +1,4 @@
+#Thu Dec 05 23:33:39 MSK 2019
+base.0=/Users/alexbarsukov/AndroidBiblio/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
