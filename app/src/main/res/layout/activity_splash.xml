@@ -22,7 +22,7 @@
 
         <com.work.retailapp.util.FontText xmlns:font="http://schemas.android.com/apk/lib/com.thoughtworks.retailshop.util"
             android:id="@+id/pro_txt"
-            style="@style/TextAppearance.AppCompat.Display1"
+            style="@style/Base.TextAppearance.AppCompat.Display1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_alignBottom="@+id/logo_img"

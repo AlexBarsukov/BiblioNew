@@ -1,0 +1,55 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/alexbarsukov/AndroidBiblio/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/Users/alexbarsukov/AndroidBiblio/app/src/main/res/values-land/dimens.xml",
+                    "from": {
+                        "startLines": "2,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,111",
+                        "endColumns": "54,52",
+                        "endOffsets": "105,159"
+                    },
+                    "to": {
+                        "startLines": "5,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "264,319",
+                        "endColumns": "54,52",
+                        "endOffsets": "314,367"
+                    }
+                },
+                {
+                    "source": "/Users/alexbarsukov/.gradle/caches/transforms-2/files-2.1/27926e4f6f135e23e794edbd8ccb754b/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                },
+                {
+                    "source": "/Users/alexbarsukov/.gradle/caches/transforms-2/files-2.1/21505770baf602782c6909b4506376e1/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "10",
+                        "endOffsets": "222"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "372",
+                        "endLines": "10",
+                        "endColumns": "10",
+                        "endOffsets": "539"
+                    }
+                }
+            ]
+        }
+    ]
+}

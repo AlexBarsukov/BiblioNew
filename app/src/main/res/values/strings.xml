@@ -1,6 +1,6 @@
 <resources>
 
-    <string name="app_name">Online shop</string>
+    <string name="app_name">Bibliocity</string>
     <string name="action_settings">Настройки</string>
     <string name="empty_text">Выберите ниже песеню для воспроизведения</string>
     <string name="standard">Стандарт</string>
@@ -12,16 +12,16 @@
     <string name="action_anchor_disable">Disable Anchor Point</string>
     <string name="idle">Idle</string>
     <string name="crash_toast_text">Неизвестная ошибка</string>
-    <string name="offer_banner">"Больше покупок - больше скидок"</string>
+    <string name="offer_banner">"Больше книг - больше знаний"</string>
     <string name="checkout">Подтвердить</string>
     <string name="similar_product">Вам также может понравиться</string>
     <string name="slogan"> </string>
     <string name="email_developer_">Email разработчика:</string>
     <string name="personal_website_">Сайт:</string>
     <string name="contact_number">Телефон</string>
-    <string name="mob_num">+79991234567</string>
+    <string name="mob_num">89992223344</string>
     <string name="lab_locations">Адреса</string>
     <string name="pune"> </string>
-    <string name="address_value">Москва</string>
+    <string name="address_value">Санкт-Петербург</string>
 
 </resources>
