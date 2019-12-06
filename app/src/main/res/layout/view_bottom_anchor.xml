@@ -12,7 +12,7 @@
     <View
         android:layout_width="match_parent"
         android:layout_height="2dp"
-        android:background="#03A14D" />
+        android:background="#2196F3" />
 
     <TextView
         android:id="@+id/new_offers_banner"

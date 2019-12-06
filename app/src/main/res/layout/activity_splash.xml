@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:font="http://schemas.android.com/apk/lib/com.thoughtworks.retailshop.util"
     android:id="@+id/root"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -8,25 +9,26 @@
     android:gravity="center">
 
     <RelativeLayout
-        android:layout_width="match_parent"
+        android:layout_width="620dp"
         android:layout_height="match_parent"
         android:gravity="center">
 
         <ImageView
             android:id="@+id/logo_img"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="10dp"
+            android:layout_width="63dp"
+            android:layout_height="96dp"
+            android:layout_marginLeft="0dp"
             android:layout_toRightOf="@+id/pro_txt"
             android:src="@drawable/app_icon" />
 
-        <com.work.retailapp.util.FontText xmlns:font="http://schemas.android.com/apk/lib/com.thoughtworks.retailshop.util"
+        <com.work.retailapp.util.FontText
             android:id="@+id/pro_txt"
             style="@style/Base.TextAppearance.AppCompat.Display1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_alignBottom="@+id/logo_img"
             android:layout_centerHorizontal="true"
+            android:layout_marginBottom="-6dp"
             android:shadowColor="#000"
             android:shadowDx="2"
             android:shadowDy="2"
@@ -42,8 +44,8 @@
             style="@style/TextAppearance.AppCompat.Title"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_alignLeft="@+id/pro_txt"
             android:layout_below="@+id/pro_txt"
+            android:layout_alignLeft="@+id/pro_txt"
             android:layout_centerHorizontal="true"
             android:layout_marginTop="5dp"
             android:shadowDx="2"

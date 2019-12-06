@@ -97,11 +97,11 @@
                 android:layout_width="45dp"
                 android:layout_height="45dp"
                 android:layout_gravity="center_vertical|center_horizontal"
-                android:background="@color/red"
+                android:background="@color/orange"
                 android:gravity="center_vertical|center_horizontal"
                 android:text="-"
                 android:textColor="@color/white"
-                android:textSize="20sp"
+                android:textSize="30sp"
                 android:textStyle="bold" />
 
             <TextView
@@ -129,7 +129,7 @@
                 android:layout_width="45dp"
                 android:layout_height="45dp"
                 android:layout_gravity="center_vertical|center_horizontal"
-                android:background="@color/holo_green_light"
+                android:background="@color/teal"
                 android:gravity="center_vertical|center_horizontal"
                 android:text="+"
                 android:textColor="@color/white"
